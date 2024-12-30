@@ -6,7 +6,7 @@ title: Määritä
 
 2. Asema yrittää muodostaa yhteyden määritettyyn WiFi-verkkoon. Jos kyseessä on uusi asetus, yhteys epäonnistuu ja asema luo WiFi-verkon nimellä `Particulate Matter ID` , `Feinstaubsensor-ID` tai `airRohr-ID`. ID on **ChipID** (esimerkiksi 13597771). **Kirjoita tämä numero muistiin, sillä tarvitset sitä rekisteröintiä varten**.
 
-3. Muodosta yhteys aseman luomaan WiFi-verkkoon tietokoneella tai älypuhelimella. Odota, kunnes yhteys on muodostettu.<br>*Android*: Jos yhteys katkeaa välittömästi, sinun on ehkä poistettava vaihtoehto 'Älykäs verkonvaihto' käytöstä kohdassa 'Yhteydet -> WiFi -> Lisäasetukset'.
+3. Muodosta yhteys aseman luomaan WiFi-verkkoon tietokoneella tai älypuhelimella. Tämän verkon oletussalasana on `airrohrcfg`. Odota, kunnes yhteys on muodostettu.<br>*Android*: Jos yhteys katkeaa välittömästi, sinun on ehkä poistettava vaihtoehto 'Älykäs verkonvaihto' käytöstä kohdassa 'Yhteydet -> WiFi -> Lisäasetukset'.
 
 4. Avaa selain ja kirjoita [http://192.168.4.1](http://192.168.4.1).
 

@@ -6,7 +6,7 @@ title: Configure
 
 2. The station will attempt to connect to the configured WiFi network. For a new set up, the connection will fail and the station will create a WiFi network with the name `Particulate Matter ID` , `Feinstaubsensor-ID` or `airRohr-ID`. The ID is the **ChipID** (for example 13597771). **Please note this number down, as you will need it for the registration**
 
-3. Connect to the WiFi network created by the station on your computer or smartphone. Wait until the connection is established.<br>*Android*: If the connection disconnects immediately, you may have to deactivate the option 'Smart network switch' under 'Connections -> WiFi -> Advanced'.
+3. Connect to the WiFi network created by the station on your computer or smartphone. The default password for this network is 'airrohrcfg'. Wait until the connection is established.<br>*Android*: If the connection disconnects immediately, you may have to deactivate the option 'Smart network switch' under 'Connections -> WiFi -> Advanced'.
 
 4. Open your browser and type in [http://192.168.4.1/](http://192.168.4.1/).
 
@@ -28,5 +28,5 @@ title: Configure
 ### Verify the station is correctly configured
 If you made no other changes in the previous step other than WiFi network configuration, the sensor will now start recording and uploading the data. You can verify that everyting is working correctly after about 10 minutes by navigating to the following pages. On these pages search for the ChipID (in the example above the 13597771).
 
-* [Sensor data](https://www.madavi.de/sensor/graph.php)
-* [WiFi signal data](https://www.madavi.de/sensor/signal.php)
+ * [Sensor data](https://www.madavi.de/sensor/graph.php)
+ * [WiFi signal data](https://www.madavi.de/sensor/signal.php)

@@ -6,7 +6,7 @@ title: Configure
 
 2. Stacja spróbuje podłączyć się do skonfigurowanej sieci WiFi. W przypadku nowej konfiguracji połączenie nie powiedzie się i stacja utworzy sieć WiFi o nazwie `Particulate Matter ID` , `Feinstaubsensor-ID` lub `airRohr-ID`. ID to **ChipID** (na przykład 13597771). **Proszę zanotować ten numer w dół, ponieważ będzie on potrzebny do rejestracji**
 
-3. Połącz się z siecią WiFi utworzoną przez stację na komputerze lub smartfonie. Poczekaj, aż połączenie zostanie nawiązane.<br>*Android*: Jeśli połączenie zostanie natychmiast rozłączone, być może trzeba będzie wyłączyć opcję "Przełącznik sieci inteligentnej" w zakładce "Połączenia -> WiFi -> Zaawansowane".
+3. Połącz się z siecią WiFi utworzoną przez stację na komputerze lub smartfonie. Domyślne hasło dla tej sieci to `airrohrcfg`. Poczekaj, aż połączenie zostanie nawiązane.<br>*Android*: Jeśli połączenie zostanie natychmiast rozłączone, być może trzeba będzie wyłączyć opcję "Przełącznik sieci inteligentnej" w zakładce "Połączenia -> WiFi -> Zaawansowane".
 
 4. Otwórz przeglądarkę i wpisz w polu [http://192.168.4.1/](http://192.168.4.1/).
 

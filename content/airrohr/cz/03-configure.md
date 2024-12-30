@@ -6,7 +6,7 @@ title: Konfigurace
 
 2. Stanice se pokusí připojit k nakonfigurované síti (je-li nějaká). Jestliže se jí to nepodaří, stanice vytvoří otevřenou Wi-Fi síť s názvem `Particulate Matter ID`,  `Feinstaubsensor-ID` nebo `airRohr-ID`. ID je **ChipID** (například 13597771). **Prosím zapište si toto číslo. Budete ho potřebovat při registraci.**
 
-3. Připojte se k vytvořené Wi-Fi síti. Počkejte na dokončení připojení. <br>*Android*: Jestliže dojde k okamžitému odpojení, pravděpodobně bude nutné v nastavení deaktivovat možnost 'Inteligentní síťový přepínač' v 'Připojení -> Wi-Fi -> Rozšířené'
+3. Připojte se k vytvořené Wi-Fi síti. Výchozí heslo pro tuto síť je `airrohrcfg`. Počkejte na dokončení připojení. <br>*Android*: Jestliže dojde k okamžitému odpojení, pravděpodobně bude nutné v nastavení deaktivovat možnost 'Inteligentní síťový přepínač' v 'Připojení -> Wi-Fi -> Rozšířené'
 
 4. Otevřete prohlížeč a napište [http://192.168.4.1/](http://192.168.4.1/)
 

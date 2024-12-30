@@ -13,7 +13,9 @@ title: Configurazione
    **Annota questo numero, sarà necessario per la registrazione
    successiva**
 
-3. Connetti il tuo PC alla rete wireless `airRohr-XXYYZZ`.
+3. Connetti il tuo PC alla rete wireless `airRohr-XXYYZZ`. La password
+   predefinita per questa rete è `airrohrcfg`. Attendi che venga stabilita
+   la connessione.
 
    > ⚠ **Nota** Se stai usando un dispositivo *Android* che presenta
    > problemi, prova a disattivare nel menu `Connessioni -> WiFi -> Avanzate`

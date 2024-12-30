@@ -7,7 +7,7 @@ title: Konfigūruoti
 
 2. Stotis bandys prisijungti prie sukonfigūruoto "WiFi" tinklo. Naujai sukonfigūravus, prisijungti nepavyks ir stotis sukurs "WiFi" tinklą su pavadinimu `Particulate Matter ID` , `Feinstaubsensor-ID` arba `airRohr-ID`. ID yra **ChipID** (pavyzdžiui, 13597771). **Prašome užsirašyti šį numerį, nes jis bus reikalingas registracijai**.
 
-3. Kompiuteryje arba išmaniajame telefone prisijunkite prie stoties sukurto "WiFi" tinklo. Palaukite, kol bus užmegztas ryšys.<br>*Android*: Jei ryšys iš karto nutrūksta, gali tekti išjungti parinktį "Smart network switch" (išmanusis tinklo perjungimas), esančią skiltyje "Connections -> WiFi -> Advanced" (Ryšiai -> "WiFi" -> "Advanced").
+3. Kompiuteryje arba išmaniajame telefone prisijunkite prie stoties sukurto "WiFi" tinklo. Numatytasis šio tinklo slaptažodis yra `airrohrcfg`. Palaukite, kol bus užmegztas ryšys.<br>*Android*: Jei ryšys iš karto nutrūksta, gali tekti išjungti parinktį "Smart network switch" (išmanusis tinklo perjungimas), esančią skiltyje "Connections -> WiFi -> Advanced" (Ryšiai -> "WiFi" -> "Advanced").
 
 4. Atidarykite naršyklę ir įveskite [http://192.168.4.1/](http://192.168.4.1/).
 

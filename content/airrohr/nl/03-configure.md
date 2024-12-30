@@ -4,9 +4,9 @@ title: Configuratie
 ### Het unieke ID bepalen
 1. Sluit het station met de USB-kabel aan op een spanningsbron om de sensor aan te zetten.
 
-2. Het station zal zelf een WiFi-netwerk opzetten met als naam `airRohr-sensor-UID`. Dit kan een minuut of 2 duren. Hierbij is 'sensor-UID' het ID van de **ChipID** op je NodeMCU (bijvoorbeeld 13597771). Dat is het nummer dat je te zien kreeg in de firmware flasher, na het flashen en had je als het goed is al genoteed. **Schrijf anders nu dit nummer op, je hebt dit later nodig voor registratie van de sensor**
+2. Het station zal zelf een WiFi-netwerk opzetten met als naam `airRohr-sensor-UID`. Dit kan een minuut of 2 duren. Hierbij is 'sensor-UID' het ID van de **ChipID** op je NodeMCU (bijvoorbeeld 13597771). Dat is het nummer dat je te zien kreeg in de firmware flasher, na het flashen en had je als het goed is al genoteerd. **Schrijf anders nu dit nummer op, je hebt dit later nodig voor registratie van de sensor**
 
-3. Verbind je computer of smartphone met het WiFi netwerk dat door het station is opgezet. Een wachtoord wordt niet gevraagd. Wacht totdat de verbinding tot stand is gebracht.<br>*Android*: Als de verbinding onmiddellijk wordt verbroken, moet je mogelijk de optie 'Smart network switch' onder 'Connection -> WiFi -> Advanced' deactiveren.
+3. Verbind je computer of smartphone met het WiFi netwerk dat door het station is opgezet. Het standaardwachtwoord voor dit netwerk is `airrohrcfg`. Wacht totdat de verbinding tot stand is gebracht.<br>*Android*: Als de verbinding onmiddellijk wordt verbroken, moet je mogelijk de optie 'Smart network switch' onder 'Connection -> WiFi -> Advanced' deactiveren.
 
 4. Open je browser en typ in [http://192.168.4.1/](http://192.168.4.1/).
 

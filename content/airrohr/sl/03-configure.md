@@ -7,7 +7,7 @@ title: Konfiguracija spletne strani
 
 2. Postaja se bo poskušala povezati z nastavljenim omrežjem WiFi. Pri novi nastavitvi povezava ne bo uspešna in postaja bo ustvarila omrežje WiFi z imenom `Particulate Matter ID` , `Feinstaubsensor-ID` ali `airRohr-ID`. ID je **ChipID** (na primer 13597771). **To številko si zapišite, saj jo boste potrebovali za registracijo**.
 
-3. V računalniku ali pametnem telefonu se povežite z omrežjem WiFi, ki ga je ustvarila postaja. Počakajte, da se vzpostavi povezava.<br>*Android*: Če se povezava takoj prekine, boste morda morali deaktivirati možnost "Smart network switch" (Pametni preklop omrežja) v razdelku "Connections -> WiFi -> Advanced" (Povezave -> WiFi -> Napredno).
+3. V računalniku ali pametnem telefonu se povežite z omrežjem WiFi, ki ga je ustvarila postaja. Privzeto geslo za to omrežje je `airrohrcfg`. Počakajte, da se vzpostavi povezava.<br>*Android*: Če se povezava takoj prekine, boste morda morali deaktivirati možnost "Smart network switch" (Pametni preklop omrežja) v razdelku "Connections -> WiFi -> Advanced" (Povezave -> WiFi -> Napredno).
 
 4. Odprite brskalnik in vtipkajte [http://192.168.4.1/](http://192.168.4.1/).
 

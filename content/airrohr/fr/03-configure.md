@@ -6,7 +6,7 @@ title: Configuration
 
 2. La station essaie de se connecter à un point d'accès Wifi. Avant configuration, aucune connection ne doit être possible et le détecteur va produire lui-même un point d'accès avec le nom `Particulate Matter-ID` , `Feinstaubsensor-ID` ou `airRohr-ID`. Le numéro ID est l'**identifiant de la puce** (par exemple 13597771). **Veuillez noter ce numéro. Vous en aurez besoin pour l'enregistrement de la station**.
 
-3. Connectez-vous à ce point d'accès. Attendez que la connexion soit bien établie.<br>*Android*: Si l'appareil se déconnecte immédiatement, vous devez désactiver l'option 'Réseau intelligent' sous 'WiFi -> Plus'.
+3. Connectez-vous à ce point d'accès. Le mot de passe par défaut pour ce réseau est `airrohrcfg`. Attendez que la connexion soit bien établie.<br>*Android*: Si l'appareil se déconnecte immédiatement, vous devez désactiver l'option 'Réseau intelligent' sous 'WiFi -> Plus'.
 
 4. Ouvrez un navigateur et tapez l'adresse [http://192.168.4.1/](http://192.168.4.1/)
 

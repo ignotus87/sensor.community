@@ -7,7 +7,7 @@ title: A  konfigurálása
 
 2. Az állomás megpróbál csatlakozni a konfigurált WiFi hálózathoz. Új beállítás esetén a kapcsolat meghiúsul, és az állomás létrehoz egy WiFi hálózatot `Particulate Matter ID` , `Feinstaubsensor-ID` vagy `airRohr-ID` névvel. Az ID a **ChipID** (például 13597771). **Kérjük, jegyezze fel ezt a számot, mivel a regisztrációhoz szükség lesz rá**.
 
-3. Csatlakozzon a számítógépén vagy okostelefonján az állomás által létrehozott WiFi hálózathoz. Várjon, amíg a kapcsolat létrejön.<br>*Android*: Ha a kapcsolat azonnal megszakad, akkor lehet, hogy ki kell kapcsolnia az "Intelligens hálózatváltás" opciót a "Kapcsolatok -> WiFi -> Speciális" menüpontban.
+3. Csatlakozzon a számítógépén vagy okostelefonján az állomás által létrehozott WiFi hálózathoz. Ennek a hálózatnak az alapértelmezett jelszava: `airrohrcfg`. Várjon, amíg a kapcsolat létrejön.<br>*Android*: Ha a kapcsolat azonnal megszakad, akkor lehet, hogy ki kell kapcsolnia az "Intelligens hálózatváltás" opciót a "Kapcsolatok -> WiFi -> Speciális" menüpontban.
 
 4. Nyissa meg a böngészőt, és írja be a [http://192.168.4.1/](http://192.168.4.1/) szót.
 

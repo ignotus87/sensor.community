@@ -6,7 +6,7 @@ title: Configurar
 
 2. A estação tentará se conectar à rede WiFi configurada. Para uma nova configuração, a conexão falhará e a estação criará uma rede WiFi com o nome `Particulate Matter ID`,` Feinstaubsensor-ID` ou `airRohr-ID`. O ID é o **ChipID** (por exemplo 13597771). **Por favor, anote este número, pois você precisará dele para o registro**
 
-3. Conecte-se à rede WiFi criada pela estação em seu computador ou smartphone. Aguarde até que a conexão seja estabelecida. <br>*Android*: Se a conexão for desconectada imediatamente, pode ser necessário desativar a opção 'Smart network switch' em 'Connections -> WiFi -> Advanced'.
+3. Conecte-se à rede WiFi criada pela estação em seu computador ou smartphone. A senha padrão para esta rede é `airrohrcfg`. Aguarde até que a conexão seja estabelecida. <br>*Android*: Se a conexão for desconectada imediatamente, pode ser necessário desativar a opção 'Smart network switch' em 'Connections -> WiFi -> Advanced'.
 
 4. Abra seu navegador e digite [http://192.168.4.1/](http://192.168.4.1/).
 

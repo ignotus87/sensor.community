@@ -6,7 +6,7 @@ title: Konfigurēt
 
 2. Stacija mēģinās izveidot savienojumu ar konfigurēto WiFi tīklu. Jaunas konfigurācijas gadījumā savienojums neizdosies, un stacija izveidos WiFi tīklu ar nosaukumu `Particulate Matter ID` , `Feinstaubsensor-ID` vai `airRohr-ID`. ID ir **ChipID** (piemēram, 13597771). **Pierakstiet šo numuru, jo tas būs nepieciešams reģistrācijai**.
 
-3. Savienojieties ar stacijas izveidoto WiFi tīklu datorā vai viedtālrunī. Pagaidiet, līdz izveidojas savienojums.<br>*Android*: Ja savienojums nekavējoties pārtrūkst, iespējams, ir jādeaktivizē opcija "Smart network switch" (Viedā tīkla pārslēgšana) sadaļā "Connections -> WiFi -> Advanced" (Savienojumi -> WiFi -> Uzlabotie).
+3. Savienojieties ar stacijas izveidoto WiFi tīklu datorā vai viedtālrunī. Šī tīkla noklusējuma parole ir `airrohrcfg`. Pagaidiet, līdz izveidojas savienojums.<br>*Android*: Ja savienojums nekavējoties pārtrūkst, iespējams, ir jādeaktivizē opcija "Smart network switch" (Viedā tīkla pārslēgšana) sadaļā "Connections -> WiFi -> Advanced" (Savienojumi -> WiFi -> Uzlabotie).
 
 4. Atveriet pārlūkprogrammu un ievadiet [http://192.168.4.1/](http://192.168.4.1/).
 

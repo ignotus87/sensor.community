@@ -6,7 +6,7 @@ title: Configurați
 
 2. Stația va încerca să se conecteze la rețeaua WiFi configurată. Pentru o nouă configurare, conexiunea va eșua și stația va crea o rețea WiFi cu numele `Particulate Matter ID` , `Feinstaubsensor-ID` sau `airRohr-ID`. ID-ul este **ChipID** (de exemplu, 13597771). **Vă rugăm să notați acest număr, deoarece veți avea nevoie de el pentru înregistrare**.
 
-3. Conectați-vă la rețeaua WiFi creată de stație pe computer sau pe smartphone. Așteptați până când se stabilește conexiunea.<br>*Android*: Dacă conexiunea se deconectează imediat, este posibil să trebuiască să dezactivați opțiunea "Smart network switch" (Comutare inteligentă a rețelei) din "Connections -> WiFi -> Advanced" (Conexiuni -> WiFi -> Avansat).
+3. Conectați-vă la rețeaua WiFi creată de stație pe computer sau pe smartphone. Parola implicită pentru această rețea este `airrohrcfg`. Așteptați până când se stabilește conexiunea.<br>*Android*: Dacă conexiunea se deconectează imediat, este posibil să trebuiască să dezactivați opțiunea "Smart network switch" (Comutare inteligentă a rețelei) din "Connections -> WiFi -> Advanced" (Conexiuni -> WiFi -> Avansat).
 
 4. Deschideți browserul și tastați [http://192.168.4.1](http://192.168.4.1).
 

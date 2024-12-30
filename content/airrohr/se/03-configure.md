@@ -6,7 +6,7 @@ title: Konfigurera
 
 2. Stationen försöker ansluta till det konfigurerade WiFi-nätverket. För en ny installation kommer anslutningen att misslyckas och stationen skapar ett WiFi-nätverk med namnet `Particulate Matter ID`, `Feinstaubsensor-ID` eller `airRohr-ID`. ID är **ChipID** (till exempel 13597771). **Vänligen notera detta nummer, eftersom du behöver det för registrering**
 
-3. Anslut till det WiFi-nätverk som skapats av stationen på din dator eller smartphone. Vänta tills anslutningen upprättas. <br> * Android *: Om anslutningen kopplas bort omedelbart kan du behöva inaktivera alternativet "Smart nätverksväxel" under "Anslutningar -> WiFi -> Avancerat".
+3. Anslut till det WiFi-nätverk som skapats av stationen på din dator eller smartphone. Standardlösenordet för detta nätverk är `airrohrcfg`. Vänta tills anslutningen upprättas. <br> * Android *: Om anslutningen kopplas bort omedelbart kan du behöva inaktivera alternativet "Smart nätverksväxel" under "Anslutningar -> WiFi -> Avancerat".
 
 4. Öppna din webbläsare och skriv in [http://192.168.4.1/](http://192.168.4.1/).
 

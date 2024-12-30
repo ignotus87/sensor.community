@@ -6,7 +6,7 @@ title: Konfigureeri
 
 2. Jaam üritab luua ühendust konfigureeritud WiFi-võrguga. Uue seadistuse puhul ühendus ebaõnnestub ja jaam loob WiFi võrgu nimega `Particulate Matter ID` , `Feinstaubsensor-ID` või `airRohr-ID`. ID on **ChipID** (näiteks 13597771). **Palun märkige see number üles, sest seda on vaja registreerimiseks**.
 
-3. Ühendage oma arvutis või nutitelefonis jaama loodud WiFi-võrku. Oodake, kuni ühendus on loodud.<br>*Android*: Kui ühendus katkeb kohe, peate võib-olla deaktiveerima valiku 'Smart network switch' (nutikas võrguvahetus) jaotises 'Connections -> WiFi -> Advanced' (Ühendused -> WiFi -> Täiustatud).
+3. Ühendage oma arvutis või nutitelefonis jaama loodud WiFi-võrku. Selle võrgu vaikeparool on `airrohrcfg`. Oodake, kuni ühendus on loodud.<br>*Android*: Kui ühendus katkeb kohe, peate võib-olla deaktiveerima valiku 'Smart network switch' (nutikas võrguvahetus) jaotises 'Connections -> WiFi -> Advanced' (Ühendused -> WiFi -> Täiustatud).
 
 4. Avage brauser ja sisestage [http://192.168.4.1](http://192.168.4.1).
 
