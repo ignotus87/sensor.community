@@ -11,25 +11,23 @@
   $: lang = $page.params.lang;
   $: path = $page.path;
   $: i18n = initI18n(lang);
-  // $: i18n = initI18n($page.params.lang);
-
 
   const fetchNumbers = (async () => {
-  const response = await fetch('https://stats.sensor.community/numbers.json')
-  return await response.json()
+    const response = await fetch('https://stats.sensor.community/numbers.json')
+    return await response.json()
   })()
 
   function formatNumber(n) {
-  return String(n).replace(/\d+?(?=(?:\d{3})+$)/img, "$&.");
+    return String(n).replace(/\d+?(?=(?:\d{3})+$)/img, "$&.");
   }
 
 
   function delayMap() {
-  if (process.browser) {
-  setTimeout(function(){
-  document.getElementById('map-frame').src='https://maps.sensor.community/?selection=PM25&nooverlay=true#2/28.3/-1.1';
-  },900);
-  }
+    if (process.browser) {
+      setTimeout(function() {
+        document.getElementById('map-frame').src='https://maps.sensor.community/?selection=PM25&nooverlay=true#2/28.3/-1.1';
+      },900);
+    }
   };
 </script>
 
@@ -58,19 +56,10 @@
       <h3 class="text-gray-700 text-4xl leading-tight">
         <p class="p-2">{i18n.t('index:message-description')}</p>
         <p class="p-2">{i18n.t('index:message-mission')}</p>
-        <!--        <p class="p-2">{i18n.t('index:message-hubs')}</p>-->
       </h3>
     </div>
   </div>
 </section>
-
-
-<!--<p class="text-center p-4 text-gray-600 mt-10">-->
-<!--    Created your own DIY particulate matter airrohr or noise senor with our-->
-<!--    <a class="border-b text-blue-500" href="" target="_blank">guide</a>.<br>-->
-<!--    <a href="#" class="cursor-pointer bg-teal-600 hover:bg-teal-500 shadow-xl px-5 py-2 inline-block text-teal-100 hover:text-white rounded">Build</a>-->
-
-<!--</p>-->
 
 <section class="container mx-auto mt-10">
   <div class="flex flex-row flex-wrap mt-10">
